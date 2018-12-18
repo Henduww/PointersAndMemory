@@ -1,6 +1,7 @@
 # Pointers and Memory
 A collection of the learning process while trying to understand computer memory and pointers.
-All source code is written in the C language, and the notes (as well as the document itself) mostly revolves around pointers an memory in C.
+
+All source code is written in the C language, and the notes (as well as the document itself) mostly revolves around pointers and memory in C.
 Most of the notes' contents can be applied to other languages as well, that support memory manipulation.
 
 # Contents
