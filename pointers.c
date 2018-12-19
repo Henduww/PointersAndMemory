@@ -9,4 +9,6 @@ int main(int argc, char** argv)
 	int* pa = &a;
 
 	printf("%d\n", *pa);
+	
+	return 0;
 }
