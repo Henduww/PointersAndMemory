@@ -6,7 +6,7 @@ void HeapAlloc();
 int main()
 {
 	HeapAlloc();
-	return 1;
+	return 0;
 }
 
 void HeapAlloc()
