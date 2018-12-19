@@ -14,7 +14,7 @@ int main()
 	printf("The string: %s is located at %p\n", heapStr, heapStr);
 	free(heapStr);					// Deallocate block of memory!!
 
-	return 1;
+	return 0;
 }
 
 char* CopyStringToHeap(const char* string)
