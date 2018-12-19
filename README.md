@@ -8,7 +8,7 @@ Most of the notes' contents can be applied to other languages as well, that supp
 This repository contains:
    - Elaborative notes taken while reading the document "Pointers and Memory", written by [Nick Parlante](https://cs.stanford.edu/people/nick/) from [Stanford University](https://www.stanford.edu/).
    - Source code for example programs in the document
-   - Source code for own experiments with local and heap memory, as well as experimental pointer code.
+   - Source code for own experiments with local- and heap memory, as well as experimental pointer code.
 
 
 *See below for full file descriptions*
